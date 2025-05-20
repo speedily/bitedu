@@ -171,7 +171,7 @@ const SecurityPage = () => {
               <h3 className="text-xl font-medium mb-4">Bitcoin Security Layers</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/layersofblockchain.png" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/layersofblockchain.png" 
                   alt="Bitcoin Security Layers" 
                   className="w-full h-auto rounded-md"
                 />
@@ -231,7 +231,7 @@ const SecurityPage = () => {
               <h3 className="text-xl font-medium mb-4">Bitcoin Wallet Security Comparison</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/BitcoinWalletSecurityComparison.png" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/BitcoinWalletSecurityComparison.png" 
                   alt="Bitcoin Wallet Security Comparison" 
                   className="w-full h-auto rounded-md"
                 />
@@ -263,7 +263,7 @@ const SecurityPage = () => {
               <h3 className="text-xl font-medium mb-4">Multi-Signature Security</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/how_multisig_wallets_work.webp" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/how_multisig_wallets_work.webp" 
                   alt="Multi-Signature Security" 
                   className="w-full h-auto rounded-md"
                 />
@@ -304,7 +304,7 @@ const SecurityPage = () => {
               <h3 className="text-xl font-medium mb-4">Seed Phrase Security</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/WhatIsASeedPhrase.webp" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/WhatIsASeedPhrase.webp" 
                   alt="Seed Phrase Security" 
                   className="w-full h-auto rounded-md"
                 />

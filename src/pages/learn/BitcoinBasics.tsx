@@ -160,7 +160,7 @@ const BitcoinBasics = () => {
               <h3 className="text-xl font-medium mb-4">Bitcoin Network Visualization</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/bitcoinnetworkvisualization.webp" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/bitcoinnetworkvisualization.webp" 
                   alt="Bitcoin Network Diagram" 
                   className="w-full h-auto rounded-md"
                 />
@@ -199,7 +199,7 @@ const BitcoinBasics = () => {
               <h3 className="text-xl font-medium mb-4">Bitcoin Supply Schedule</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/bitcoinsupply.webp" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/bitcoinsupply.webp" 
                   alt="Bitcoin Supply Schedule" 
                   className="w-full h-auto rounded-md"
                 />
@@ -227,7 +227,7 @@ const BitcoinBasics = () => {
               <h3 className="text-xl font-medium mb-4">Bitcoin Blockchain Structure</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/blockchainoverview.png" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/blockchainoverview.png" 
                   alt="Bitcoin Blockchain Structure" 
                   className="w-full h-auto rounded-md"
                 />
@@ -252,7 +252,7 @@ const BitcoinBasics = () => {
               <h3 className="text-xl font-medium mb-4">Bitcoin Transaction Process</h3>
               <div className="bg-muted p-6 rounded-lg">
                 <img 
-                  src="https://raw.githubusercontent.com/speedily/tcb/refs/heads/main/src/images/bitcointransaction.jpg" 
+                  src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/bitcointransaction.jpg" 
                   alt="Bitcoin Transaction Process" 
                   className="w-full h-auto rounded-md"
                 />
