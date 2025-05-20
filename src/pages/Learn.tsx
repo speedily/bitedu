@@ -175,7 +175,7 @@ const Learn = () => {
                       <CardContent>
                         <div className="aspect-video bg-muted rounded-md overflow-hidden">
                           <img 
-                            src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9Ka6ljT3yJQ84iVVQQXntQ.png" 
+                            src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/bitcoinnetworkvisualization.webp" 
                             alt="Bitcoin Network" 
                             className="w-full h-full object-cover"
                           />
@@ -193,7 +193,7 @@ const Learn = () => {
                       <CardContent>
                         <div className="aspect-video bg-muted rounded-md overflow-hidden">
                           <img 
-                            src="https://miro.medium.com/v2/resize:fit:1400/1*yGcwp5PtwDmkrX2FafYFHg.png" 
+                            src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/bitcoinsupply.webp" 
                             alt="Bitcoin Supply" 
                             className="w-full h-full object-cover"
                           />
@@ -211,7 +211,7 @@ const Learn = () => {
                       <CardContent>
                         <div className="aspect-video bg-muted rounded-md overflow-hidden">
                           <img 
-                            src="https://bitcoin.org/img/dev/en-blockchain-overview.svg" 
+                            src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/blockchainoverview.png" 
                             alt="Blockchain Structure" 
                             className="w-full h-full object-contain bg-white"
                           />
@@ -229,7 +229,7 @@ const Learn = () => {
                       <CardContent>
                         <div className="aspect-video bg-muted rounded-md overflow-hidden">
                           <img 
-                            src="https://www.investopedia.com/thmb/DgmKuK6aoY6Jw3P4eox-oMEMvh0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg" 
+                            src="https://raw.githubusercontent.com/speedily/bitedu/refs/heads/main/src/images/bitcointransaction.jpg" 
                             alt="Transaction Flow" 
                             className="w-full h-full object-cover"
                           />

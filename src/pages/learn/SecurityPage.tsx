@@ -132,7 +132,7 @@ const SecurityPage = () => {
             <h2 className="text-2xl font-bold mb-4">Video Lesson</h2>
             <div className="aspect-video bg-muted rounded-lg overflow-hidden mb-4">
               <iframe 
-                src="https://www.youtube.com/watch?v=POXhTSHoVG4" 
+                src="https://www.youtube.com/embed/POXhTSHoVG4?si=UulKw_V8EhX16rHk" 
                 title="Bitcoin Security Best Practices" 
                 className="w-full h-full" 
                 frameBorder="0" 
